@@ -135,7 +135,7 @@ FDS-COMPROG PROJ/
 ---
 
 ## Screenshots
-- ** Screenshots are in the Documentation file
+- ** Screenshots are in the Documentation PDF
 ---
 
 ## Troubleshooting
