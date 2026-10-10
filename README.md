@@ -136,12 +136,7 @@ FDS-COMPROG PROJ/
 
 ## Screenshots
 
-| Customer Order Window | Admin Dashboard |
-|---|---|
-| *(add screenshot)* | *(add screenshot)* |
-
-To add one: create a `screenshots` folder, put your image in it, then use `![Order window](screenshots/order.png)`.
-
+In the Documentation file
 ---
 
 ## Troubleshooting
