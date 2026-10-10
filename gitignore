@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+bin/
+obj/
+packages/
+
+# Generated files
+*.pdb
+Receipt_*.pdf
+Best_Selling_Products_*.pdf
+Sales_Summary_by_Date_*.pdf
